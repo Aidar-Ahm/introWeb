@@ -1,0 +1,42 @@
+[
+    {
+      "product":"яблоки",
+      "wight":1000,
+      "group": "фрукты",
+      "price": 150,
+      "number": 1
+    },
+    {
+      "product":"Картошка ранняя",
+      "wight":5000,
+      "group": "овощи",
+      "price": 320,
+      "number": 2
+    }
+    ]
+
+    {
+        "query": "Виктор Иван",
+        "count": 7,
+        "parts": ["NAME", "SURNAME"]
+        }
+
+
+    [
+        {
+          "name":"иван",
+          "firstname":"Иванов",
+          "age": 37,
+          "hobbis": ["рыбалка", "охота", "футбол"],
+          "status": true,
+          "childs": ["Мария", "Николай"]
+        },
+        {
+          "name":"Ольга",
+          "firstname":"Фролова",
+          "age": 21,
+          "hobbis": ["путешествие", "вышивание"],
+          "status": false,
+          "childs": []
+        }
+      ]    

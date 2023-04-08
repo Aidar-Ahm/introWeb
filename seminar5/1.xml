@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book>
+		<id>1</id>
+		<title>Камил видит руками</title>
+		<autorName>Томаш Малковски</autorName>
+		<date>25.11.11</date>
+		<pages>133</pages>
+		<price>222</price>
+	</book>
+	<book>
+		<id>2</id>
+		<title>Вероятности и неприятности</title>
+		<autorName>Сергей Самойленко</autorName>
+		<date>25.10.12</date>
+		<pages>4353</pages>
+		<price>111</price>
+	</book>
+</books>
+
+<?xml version="1.0"? encoding = encoding="UTF-8">
+<registers>
+<doRegister>
+	<email>olga@gmail.com</email>
+	<name>Ольга</name>
+	<password>1</password>
+</doRegister>
+
+<doRegister>
+	<email>ivan@gmail.com</email>
+	<name>Иван</name>
+	<password>222</password>
+</doRegister>
+</registers>
